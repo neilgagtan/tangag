@@ -1,1 +1,119 @@
-
+[
+  {
+    "id": 1,
+    "name": "Las Navas Northern Samar",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/18-pinipisakan-falls-and-sulpan-cave-trexplore-the-adventures-750x469.jpg",
+    "price": 250,
+    "priceCurrency": "₱",
+    "lat": 12.262180, 
+    "lng": 125.053075
+  },
+  {
+    "id": 2,
+    "name": "Banaue Rice Terraces Viewpoint, Banaue, Ifugao",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Banaue-Rice-Terraces-.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 16.935528,  
+    "lng": 121.057344
+  },
+  {
+    "id": 3,
+    "name": " Itbayat Municipal Park Batanes Island",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Batanes.jpg",
+    "price": 200,
+    "priceCurrency": "₱",
+    "lat": 20.787530,
+    "lng": 121.841217 
+  },
+  {
+    "id": 4,
+    "name": "caves near Calbiga Bridge, Samar",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Calbiga-caves.jpg",
+    "price": 300,
+    "priceCurrency": "₱",
+    "lat": 11.940073, 
+    "lng": 125.040509
+  },
+  {
+    "id": 5,
+    "name": "Camiguin Island",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Camiguin-Island-Philippines.jpg",
+    "price": 400,
+    "priceCurrency": "₱",
+    "lat": 9.258709, 124.655368
+    "lng": 124.655368
+  },
+    {
+    "id": 6,
+    "name": "Mount Apo",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Mount-Apo.jpg",
+    "price": 1200,
+    "priceCurrency": "₱",
+    "lat": 6.987978,
+    "lng": 125.269188
+  },
+    {
+    "id": 7,
+    "name": "Calle Crisology Vigan city ilocos sur",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/calle-crisologo-vigan.jpg",
+    "price": 700,
+    "priceCurrency": "₱",
+    "lat": 17.570087, 
+    "lng": 120.388311
+  },
+    {
+    "id": 8,
+    "name": "Danjugan Island Cauayan",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/danjugan-island-the-poor-traveler-750x469.jpg",
+    "price": 400,
+    "priceCurrency": "₱",
+    "lat": 9.873679, 
+    "lng": 122.378604
+  },
+    {
+    "id": 9,
+    "name": "kalanggaman island",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/kalanggaman-island-768x512.jpg",
+    "price": 400,
+    "priceCurrency": "₱",
+    "lat": 11.114580,
+    "lng":  124.249449
+  },
+    {
+    "id": 10,
+    "name": "Pinacanauan River Cagayan",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/pinacanauan-river-langyaw-travel-750x469.jpg",
+    "price": 400,
+    "priceCurrency": "₱",
+    "lat": 17.660907, 
+    "lng": 121.884055
+  },
+    {
+    "id": 11,
+    "name": "Tinuy-an Falls Borboanan, Bislig, Surigao del Sur",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/tinuy-an-falls-photography-and-the-spiritual-exercises-750x469.jpg",
+    "price": 1200,
+    "priceCurrency": "₱",
+    "lat": 8.172001, 
+    "lng": 126.228204
+  },
+  {
+    "id": 12,
+    "name": "Bohol Chocolate hills",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/unnamed%20(1).jpg",
+    "price": 1200,
+    "priceCurrency": "₱",
+    "lat": 9.8297, 
+    "lng": 124.1397
+  },
+   {
+    "id": 13,
+    "name": "Central East (Pob.) Bauang, La Union Balay ni gagtan",
+    "imageUrl": "https://raw.githubusercontent.com/neilgagtan/tangag/master/Img/Untitled.png",
+    "price": 600,
+    "priceCurrency": "₱",
+    "lat": 16.525122,
+    "lng":  120.329730
+  } 
+]
